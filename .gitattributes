@@ -1,0 +1,14 @@
+# Normaliza saltos de línea a LF en el repositorio (evita diferencias Windows/Mac/Linux).
+* text=auto eol=lf
+
+# Binarios: nunca convertir.
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.webp binary
+*.avif binary
+*.gif  binary
+*.ico  binary
+*.pdf  binary
+*.woff binary
+*.woff2 binary
